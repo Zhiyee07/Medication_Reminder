@@ -80,8 +80,7 @@ The contributions listed above represent my individual responsibilities within t
 ### Medication Management
 
 ![Medication Management](screenshots/medication_management.png)
-
-![Medication Management](screenshots/medication_management%282%29.png)
+![Medication Management](screenshots/medication_management (2).png)
 
 
 ### Medicine Reminder
