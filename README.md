@@ -77,23 +77,32 @@ This project was completed collaboratively as part of an academic group assignme
 The contributions listed above represent my individual responsibilities within the project.
 
 ## 9. Application Screenshots
-
 ### Medication Management
+
 ![Medication Management](screenshots/medication_management.png)
-![Medication Management](screenshots/medication_management (2).png)
+
+![Medication Management](screenshots/medication_management%282%29.png)
+
 
 ### Medicine Reminder
+
 ![Medicine Reminder](screenshots/medicine_reminder.png)
-![Medicine Reminder](screenshots/medicine_reminder (2).png)
-![Medicine Reminder](screenshots/medicine_reminder (3).png)
+
+![Medicine Reminder](screenshots/medicine_reminder%282%29.png)
+
+![Medicine Reminder](screenshots/medicine_reminder%283%29.png)
+
 
 ### Medication News
+
 ![Medication News](screenshots/daily_news.png)
 
+
 ### Weekly Medication History
+
 ![Weekly Medication History](screenshots/weekly_history.png)
-![Weekly Medication History](screenshots/weekly_history (2).png)
+
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
 
+![Home Page](screenshots/homepage.png)
