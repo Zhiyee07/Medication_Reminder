@@ -80,16 +80,16 @@ The contributions listed above represent my individual responsibilities within t
 ### Medication Management
 
 ![Medication Management](screenshots/medication_management.png)
-![Medication Management](screenshots/medication_management (2).png)
+![Medication Management](screenshots/medication_management_2.png)
 
 
 ### Medicine Reminder
 
 ![Medicine Reminder](screenshots/medicine_reminder.png)
 
-![Medicine Reminder](screenshots/medicine_reminder%282%29.png)
+![Medicine Reminder](screenshots/medicine_reminder_2.png)
 
-![Medicine Reminder](screenshots/medicine_reminder%283%29.png)
+![Medicine Reminder](screenshots/medicine_reminder_3.png)
 
 
 ### Medication News
@@ -100,6 +100,8 @@ The contributions listed above represent my individual responsibilities within t
 ### Weekly Medication History
 
 ![Weekly Medication History](screenshots/weekly_history.png)
+![Weekly Medication History](screenshots/weekly_history_2.png)
+
 
 
 ### Home Page
