@@ -16,25 +16,18 @@ The main objectives of this project are:
 
 ## 3. Key Features
 
-### 3.1 Medication Management
-
-Allows users to manage their medication information through CRUD (Create, Read, Update, Delete) operations. 
-Users can add new medicines, view existing medication records, update medicine details, and delete medicines when they are no longer needed.
-
-### 3.2 Medicine Reminder
-
-This feature helps users manage their medication schedules by providing a reminder function. 
-It is designed to help users keep track of their medication routines and reduce the chance of forgetting scheduled medication.
-
-### 3.3 Medication News
-
-The news page provides medication-related news and information within the application. 
-It allows users to access relevant content without leaving the app.
-
-### 3.4 Weekly Medication History
-
-This feature allows users to review their medication history on a weekly basis. 
-It provides a way to look back at their medication records and monitor their medication-taking activity.
+3.1 Appointment Management
+Allows users to manage their medical appointments through CRUD operations. Users can add new appointments, view appointment details, update appointment information, reschedule appointments, and delete appointments when they are no longer needed.
+3.2 Appointment Reminder
+This feature reminds users about upcoming medical appointments through notifications. Users can choose a reminder time before the appointment and confirm whether they are able to attend the appointment.
+3.3 Appointment Follow-up and History
+After an appointment, users can update its status as completed or missed. Previous, completed, missed, cancelled, and rescheduled appointments are shown in the appointment history, allowing users to review their medical appointment records.
+3.4 Water Intake Tracking
+Allows users to set a daily water intake goal and record the number of glasses of water consumed. Users can review their water intake progress for the selected day and monitor whether they have reached their daily goal.
+3.5 Monthly Statistics
+This feature calculates and displays the user’s medication adherence for a selected month. It uses taken and missed medication records to calculate the adherence percentage and helps users monitor their medication-taking performance.
+3.6 Medication Performance
+Allows users to view the taken and missed dose count for each medicine during the selected month. It provides a clearer overview of individual medication performance, including records for archived medicines.
 
 ## 4. Technologies Used
 
