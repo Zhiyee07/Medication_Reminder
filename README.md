@@ -16,17 +16,28 @@ The main objectives of this project are:
 
 ## 3. Key Features
 
-3.1 Appointment Management
+### 3.1 Appointment Management
+
 Allows users to manage their medical appointments through CRUD operations. Users can add new appointments, view appointment details, update appointment information, reschedule appointments, and delete appointments when they are no longer needed.
-3.2 Appointment Reminder
+
+### 3.2 Appointment Reminder
+
 This feature reminds users about upcoming medical appointments through notifications. Users can choose a reminder time before the appointment and confirm whether they are able to attend the appointment.
-3.3 Appointment Follow-up and History
+
+### 3.3 Appointment Follow-up and History
+
 After an appointment, users can update its status as completed or missed. Previous, completed, missed, cancelled, and rescheduled appointments are shown in the appointment history, allowing users to review their medical appointment records.
-3.4 Water Intake Tracking
+
+### 3.4 Water Intake Tracking
+
 Allows users to set a daily water intake goal and record the number of glasses of water consumed. Users can review their water intake progress for the selected day and monitor whether they have reached their daily goal.
-3.5 Monthly Statistics
+
+### 3.5 Monthly Statistics
+
 This feature calculates and displays the user’s medication adherence for a selected month. It uses taken and missed medication records to calculate the adherence percentage and helps users monitor their medication-taking performance.
-3.6 Medication Performance
+
+### 3.6 Medication Performance
+
 Allows users to view the taken and missed dose count for each medicine during the selected month. It provides a clearer overview of individual medication performance, including records for archived medicines.
 
 ## 4. Technologies Used
@@ -41,12 +52,13 @@ Allows users to view the taken and missed dose count for each medicine during th
 
 As a member of the development team, I was responsible for developing the following features:
 
-- Medication Management: Implemented CRUD operations using Supabase, allowing users to create, view, update, and delete medication records.
-- Medicine Reminder: Developed the medicine reminder functionality and integrated it with Supabase to manage medication-related data.
-- Medication News: Developed the news page for displaying medication-related information.
-- Weekly Medication History: Implemented the weekly history page to allow users to review their medication records.
+- Appointment Management: Implemented appointment CRUD operations, allowing users to add, view, edit, reschedule, and delete medical appointments.
+- Appointment Reminder and Follow-up: Developed appointment notifications, attendance confirmation actions, and follow-up functions for users to mark appointments as completed or missed.
+- Water Intake Tracking: Implemented the water intake feature, including daily goal setting, water consumption tracking, date selection, and progress display.
+- Monthly Statistics: Implemented the monthly medication adherence calculation based on taken and missed medication records.
+- Medication Performance: Developed the medication performance feature to display the taken, missed, and total dose count for each medicine in the selected month.
 
-Through these contributions, I gained practical experience in Android application development, database integration, and implementing application features using Kotlin and Jetpack Compose.
+Working on these modules improved my understanding of how Android application components work together. I learned how to build interactive screens with Kotlin and Jetpack Compose, manage user data locally and in Supabase, schedule notifications, calculate medication statistics, and collaborate with team members using GitHub. 
 
 ## 6. Project Structure
 
@@ -69,31 +81,6 @@ The project follows an Android application structure, with the main application 
 This project was completed collaboratively as part of an academic group assignment. 
 The contributions listed above represent my individual responsibilities within the project.
 
-## 9. Application Screenshots
-### Medication Management
-
-![Medication Management](screenshots/medication_management.png)
-![Medication Management](screenshots/medication_management_2.png)
-
-
-### Medicine Reminder
-
-![Medicine Reminder](screenshots/medicine_reminder.png)
-
-![Medicine Reminder](screenshots/medicine_reminder_2.png)
-
-![Medicine Reminder](screenshots/medicine_reminder_3.png)
-
-
-### Medication News
-
-![Medication News](screenshots/daily_news.png)
-
-
-### Weekly Medication History
-
-![Weekly Medication History](screenshots/weekly_history.png)
-![Weekly Medication History](screenshots/weekly_history_2.png)
 
 
 
